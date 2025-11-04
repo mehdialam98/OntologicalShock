@@ -1,0 +1,1853 @@
+name,is_larger-than-a-loaf-of-bread,is_made-of-metal,is_man-made,is_soft,is_solid,is_something-that-has-fur-or-hair,is_something-that-has-legs,is_something-that-has-wheels
+aardvark,0,0,0,0,0,1,1,0
+acai,0,0,0,1,1,0,0,0
+action figure,1,0,1,0,1,0,1,0
+actor,0,0,0,0,1,0,0,0
+adobe,0,0,1,0,1,0,0,0
+advanced micro,1,0,1,1,1,0,0,0
+aerodactyl,0,0,0,0,1,0,1,0
+aeronautical engineer,0,0,1,0,1,0,0,0
+african elephant,1,0,0,0,0,0,1,0
+africatwin,0,0,0,0,1,1,1,0
+agate,0,0,0,0,1,0,0,0
+agility ladder drills,0,0,1,1,1,0,0,0
+air,0,0,0,1,0,0,0,0
+air start unit,1,1,1,1,1,0,0,0
+air traffic controller,0,0,1,0,1,0,0,0
+aircraft mechanic,0,0,1,1,1,0,0,0
+airedale terrier,0,0,0,1,1,1,1,0
+airliner,1,1,1,0,1,0,0,1
+airplane,1,1,1,0,1,0,0,1
+airport,0,1,1,0,1,0,0,1
+airship,1,0,1,1,0,0,0,0
+airspace,0,0,0,0,0,0,0,0
+akamai technologies,0,0,1,0,1,0,0,0
+akita,0,0,0,1,1,1,1,0
+alabama,0,0,0,0,0,0,0,0
+alaska,0,0,0,0,1,1,0,0
+alaskan malamute,1,0,0,0,1,1,1,0
+albuqerque,0,0,0,0,0,0,0,0
+allen iverson,0,0,0,0,1,0,0,0
+alligator,1,0,0,0,0,0,1,0
+alpaca,0,0,0,1,1,1,1,0
+alphabet,0,0,1,1,0,0,0,0
+altimeter,0,0,0,1,1,0,0,0
+amazon,0,0,0,1,1,0,0,0
+amazon river,1,0,0,0,0,0,0,0
+amazonite,0,0,0,1,1,0,0,0
+ambulance,0,1,0,0,0,0,0,1
+american football,0,0,1,0,1,0,0,0
+american samoa,0,0,0,0,0,0,0,0
+amethyst,0,0,0,0,1,0,0,0
+amphibolite,0,0,0,0,1,0,0,0
+anaconda,0,0,0,1,1,0,0,0
+anchorage,0,1,0,0,1,0,0,0
+andesite,0,0,0,0,1,0,0,0
+angelite,0,0,0,0,1,0,0,0
+animation,0,0,1,1,0,0,0,0
+anorthosite,0,0,0,0,1,0,0,0
+ant,0,0,0,1,0,1,0,0
+antagonist,0,0,0,0,0,0,0,0
+anteater,0,0,0,0,0,0,0,0
+antelope,0,0,0,1,0,1,1,0
+antenna,0,1,1,0,1,0,0,0
+anthony davis,0,0,0,0,1,0,0,0
+anthracite,0,0,0,0,1,0,0,0
+anvil,0,1,0,0,1,0,0,0
+apartment,0,0,1,1,1,0,0,0
+apatite,0,0,0,0,1,0,0,0
+appearance,1,0,0,1,1,1,0,0
+apple,0,0,0,1,1,0,0,0
+apple pie,0,0,1,1,0,0,0,0
+apple tree,0,0,0,0,0,0,0,0
+applied materials,0,1,1,1,1,0,0,0
+apricot,0,0,0,1,0,0,0,0
+apron,1,0,1,1,1,0,0,0
+aquamarine,0,0,0,0,1,0,0,0
+aragonite,0,0,0,0,1,0,0,0
+arcade machine,0,1,1,1,1,0,0,0
+archery,0,0,1,1,1,0,0,0
+archipelago,0,0,0,0,1,0,0,0
+architect,0,0,1,1,1,0,0,0
+arctic tundra,0,0,0,0,1,1,0,0
+arctic wolf,0,0,0,0,1,1,1,0
+arizona,0,0,0,1,1,0,0,0
+arkansas,0,0,0,1,1,0,0,0
+arkose,0,0,0,0,0,0,0,0
+arlington,0,0,0,0,1,0,0,0
+arm,1,0,1,0,1,0,0,0
+armadillo,0,0,0,0,1,1,1,0
+armadillo girdled lizard,0,0,0,0,0,0,0,0
+articuno,1,0,0,0,1,0,0,0
+artisan,1,0,1,1,1,0,0,0
+artist,0,0,1,0,1,0,0,0
+assisted dip,0,0,1,1,1,0,0,0
+astronaut,0,1,0,1,1,0,0,0
+astronomy,0,0,0,0,1,0,0,0
+athlete,0,0,0,0,1,0,1,0
+atlanta,0,0,0,0,0,0,0,0
+atmosphere,1,0,0,1,0,0,0,0
+atoll,0,0,0,0,0,0,0,0
+atv,0,0,0,1,1,0,0,1
+audience,0,0,0,0,1,0,0,0
+austin,0,0,0,0,1,1,0,1
+australian shepherd,0,0,0,1,1,1,1,0
+autodesk,0,0,0,1,1,0,0,0
+avionics,0,1,1,0,1,0,0,0
+avocado,0,0,0,1,1,0,0,0
+avocado tree,0,0,0,1,1,0,0,0
+azalea,0,0,0,0,1,0,0,0
+baboon,0,0,0,0,0,1,1,0
+baby,0,0,0,1,1,1,0,0
+back squat,1,0,0,1,1,0,1,0
+backpack,1,0,1,1,1,0,0,0
+bad-weather,0,0,0,1,0,0,0,0
+badger,0,0,0,0,0,1,0,0
+badlands,0,0,0,0,0,0,0,0
+badminton,0,0,1,1,1,0,0,0
+bag,1,0,1,1,1,1,0,1
+bagel,0,0,1,1,1,0,0,0
+bagel with cream,0,0,1,1,1,0,0,0
+baguette,1,0,1,1,1,0,0,0
+bait,1,0,1,1,1,0,0,0
+bakersfield,0,0,0,0,0,0,0,0
+bakery,1,0,1,1,1,0,0,0
+baking,1,0,0,1,1,0,0,0
+bald eagle,0,0,0,0,0,0,1,0
+ball,1,0,1,1,1,0,0,0
+balloon,1,0,1,1,0,0,0,0
+baltimore,0,0,0,0,1,0,0,0
+bamboo,0,0,0,1,1,0,0,0
+banana,0,0,0,1,0,0,0,0
+banana plant,0,0,0,1,0,0,0,0
+band curl,0,0,1,1,0,0,0,0
+band deadlift,0,0,1,0,1,0,0,0
+band face pull,0,0,1,1,1,0,0,0
+band kickback,0,0,1,1,1,0,1,0
+band lateral walk,1,0,1,1,1,0,1,0
+band overhead press,1,1,1,1,1,0,0,0
+band press,1,0,1,1,0,0,0,0
+band pull-apart,0,0,0,1,1,0,0,0
+band row,0,0,0,0,1,0,0,0
+band squat,0,0,1,1,1,0,1,0
+bandit1200,0,0,1,0,1,1,0,0
+barbell curl,0,1,1,0,1,0,0,0
+barbell rollout,0,1,1,1,0,0,0,0
+barbell row,0,1,1,0,1,0,0,0
+barbell rows,0,1,1,0,1,0,0,0
+barbell shrug,1,1,1,0,1,0,0,0
+barbell squats,0,1,1,0,1,0,1,0
+barge,1,0,1,0,0,0,0,0
+barite,0,0,0,0,1,0,0,0
+basalt,0,0,0,0,1,0,0,0
+baseball,0,0,0,1,1,0,0,0
+basenji,0,0,0,0,1,1,1,0
+basil,0,0,0,1,0,0,0,0
+basket,0,0,1,0,1,0,0,0
+basketball,0,0,0,0,1,0,0,0
+basset hound,1,0,0,1,1,1,1,0
+bat,0,0,0,0,0,1,0,0
+bathtub,0,0,1,0,0,0,0,0
+battery,0,1,1,1,1,0,0,0
+battle rope waves,0,0,1,1,1,0,0,0
+bauxite,0,1,0,0,1,0,0,0
+bay,1,0,0,1,1,1,0,1
+beach,0,0,0,1,0,0,0,0
+beagle,0,0,0,1,1,1,1,0
+bear,1,0,0,1,0,1,0,0
+bear crawls,0,0,0,1,1,1,0,0
+bearded dragon,0,0,0,0,1,0,0,0
+beaver,0,0,0,1,1,1,0,0
+bed,1,0,0,1,0,0,0,0
+bedroom,0,0,1,1,1,0,0,0
+bee,0,0,0,0,0,0,1,0
+beedrill,0,0,0,0,0,0,0,0
+beekeeping,0,0,1,0,1,0,0,0
+beer,0,0,1,0,0,0,0,0
+beethoven,0,0,0,0,1,0,0,0
+bell,0,0,1,1,0,0,0,0
+bench press,0,0,0,0,1,0,0,0
+bengal tiger,0,0,0,0,0,1,1,0
+berlin,0,0,0,0,1,0,0,0
+bernese mountain dog,1,0,0,1,1,1,1,0
+beryl,0,0,0,0,1,0,0,0
+bicycle,0,1,1,0,1,0,0,1
+bike,1,1,1,1,1,0,0,1
+bill russell,0,0,0,0,1,1,0,0
+bill sharman,0,0,0,0,1,0,0,0
+bill walton,0,0,0,0,1,0,0,0
+billy cunningham,0,0,0,0,1,0,1,0
+binge,0,0,0,0,0,0,0,0
+binoculars,0,1,1,0,1,0,0,0
+bird,0,0,0,1,0,0,1,0
+birding,0,0,0,1,1,0,0,0
+birdwatching,0,0,0,1,1,0,0,0
+birmingham,0,0,0,0,0,0,0,0
+bison,1,0,0,0,1,1,1,0
+black box,0,1,1,1,0,0,0,0
+blackberry,0,0,0,1,1,0,0,0
+blanket,1,0,1,1,0,1,0,0
+blastoise,0,0,0,1,1,0,0,0
+blender,0,0,1,1,1,0,0,0
+blimp,1,0,1,1,1,0,0,0
+blizzard,0,0,0,0,0,0,0,0
+block,1,0,1,1,0,1,0,0
+blogging,0,0,1,1,1,0,1,0
+bloodhound,0,0,0,1,0,1,1,0
+blue whale,1,0,0,0,0,0,0,0
+blue-tongued skink,1,0,0,0,1,0,0,0
+blueberry,0,0,0,1,1,0,0,0
+blueberry bush,0,0,0,0,0,0,0,0
+boar,1,0,0,1,0,1,0,0
+board,0,0,0,1,1,0,0,0
+boat,0,0,1,0,1,0,0,0
+bob cousy,0,0,0,0,1,0,0,0
+bob mcadoo,0,0,0,0,1,0,0,0
+bob pettit,0,0,0,0,1,1,1,0
+boba tea,0,0,1,1,0,0,0,0
+book,1,0,0,1,1,0,0,0
+booking holdings,0,0,1,0,1,0,1,0
+bookshelf,0,0,1,0,1,0,1,0
+boot,0,0,0,1,1,0,0,0
+border collie,0,0,0,1,1,1,1,0
+boston,0,0,0,0,1,0,0,0
+boston terrier,0,0,0,1,1,1,1,0
+bottle,1,0,1,1,1,0,0,0
+bottle episode,0,0,1,1,1,0,0,0
+bottlecap,0,1,1,0,0,0,0,0
+boulder,1,0,0,0,1,0,0,0
+bowl,1,0,1,1,1,0,0,0
+box,1,0,0,1,0,1,0,0
+box jumps,0,0,1,1,1,0,0,0
+boxer,0,0,0,1,1,1,0,0
+boxing,0,0,1,0,0,0,0,0
+boysenberry,0,0,0,1,1,0,0,0
+bread,1,0,1,1,1,0,0,0
+breadfruit,0,0,0,1,1,0,0,0
+breath,0,0,0,1,0,0,0,0
+breccia,0,0,0,0,1,0,0,0
+brian,0,0,0,0,1,1,0,0
+brick,0,0,1,0,1,0,0,0
+bridge,0,1,1,0,1,0,0,0
+broadcast,0,0,1,1,0,0,0,0
+broadcom,0,0,1,0,1,0,0,0
+brookesia micra,0,0,0,1,1,0,1,0
+broom,0,0,1,1,0,1,0,0
+brown basilisk,0,0,0,0,0,0,0,0
+brush,0,0,0,1,0,1,0,0
+bucket,1,0,0,0,1,0,0,0
+buffalo,1,0,0,1,1,1,0,0
+building,1,0,1,0,1,1,1,1
+bulbasaur,0,0,0,0,1,0,0,0
+bulldog,0,0,0,0,0,1,0,0
+bulldozer,1,1,1,0,0,0,0,1
+bullmastiff,1,0,0,0,0,1,1,0
+burger,1,0,1,1,1,0,0,0
+burj khalifa,1,1,1,0,1,0,0,0
+burpee,0,0,1,0,1,0,0,0
+burpees,0,0,0,0,1,0,0,0
+burrito,1,0,1,1,1,0,0,0
+bus,1,1,1,1,0,0,0,1
+bush,0,0,0,1,0,1,0,0
+butte,0,0,0,0,1,0,0,0
+butterfly,0,0,0,1,0,0,0,0
+butterfree,0,0,0,0,0,0,0,0
+button,0,0,1,1,1,0,0,0
+cable,0,1,1,1,1,0,0,0
+cable bicep curls,0,0,1,0,1,0,0,0
+cable crossover,0,1,1,1,1,0,1,0
+cable lat pulldown,0,0,1,0,0,0,0,0
+cable lateral raises,1,0,1,1,1,0,0,0
+cable rows,0,1,1,1,1,0,0,0
+cable tricep pushdowns,0,0,1,0,1,0,0,0
+cactus,0,0,0,0,1,0,0,0
+caesar salad,0,0,1,1,1,0,0,0
+cake,1,0,1,1,0,0,0,0
+calcite,0,0,0,0,1,0,0,0
+calculator,0,0,1,1,1,0,0,0
+calendar,0,0,1,0,1,0,0,0
+california,0,0,0,0,0,0,0,0
+calligraphy,0,0,1,1,1,0,0,0
+camel,0,0,0,0,0,1,1,0
+camellia,0,0,0,1,0,0,0,0
+camera,1,0,1,1,1,0,0,0
+camp chair,0,0,1,1,1,0,1,1
+camp stove,0,1,1,1,1,0,0,0
+campervan,0,1,1,1,1,0,0,1
+campfire,0,0,1,0,1,0,0,0
+camping,0,0,0,1,1,0,0,0
+canal,0,0,1,1,1,0,0,0
+candle,0,0,1,1,1,0,0,0
+candleholder,0,1,1,0,1,0,1,0
+cane corso,1,0,0,0,1,1,1,0
+canoe,0,0,1,1,1,0,0,0
+cantaloupe,0,0,0,1,1,0,0,0
+canyon,0,0,0,0,0,0,0,0
+captain,0,0,0,0,1,0,0,0
+car,1,1,1,0,1,0,0,1
+car tire,1,0,1,1,1,0,0,1
+carabiner,0,1,1,0,1,0,0,0
+carbonatite,0,0,0,0,1,0,0,0
+carmelo anthony,0,0,0,0,1,0,0,0
+carnelian,1,0,1,0,1,0,0,0
+carpenter,0,0,1,1,1,0,0,0
+carpet,0,0,1,1,1,0,0,0
+carrot,0,0,0,1,1,0,0,0
+carrot sticks,0,0,0,1,1,0,0,0
+cart,1,0,0,1,1,1,0,1
+cartoon,0,0,1,1,1,0,0,0
+castle,0,0,1,0,1,0,0,0
+cat,0,0,0,1,0,1,0,0
+catamaran,0,0,1,1,1,0,0,0
+caterpie,0,0,0,1,0,0,1,0
+cattail,0,0,0,1,0,0,0,0
+cavalier king charles spaniel,0,0,0,1,1,1,1,0
+cave,0,0,0,0,1,0,0,0
+cbr1000rr,0,1,1,1,1,0,0,1
+cbr600rr,1,1,1,1,1,0,0,1
+cedar tree,0,0,0,0,1,0,0,0
+ceiling,0,0,0,1,1,0,0,0
+ceiling fan,0,1,1,0,1,0,0,0
+celebration,0,0,0,0,1,0,0,0
+celestite,0,0,0,0,1,0,0,0
+central netted dragon,1,0,0,1,1,0,1,0
+cereal with milk,0,0,1,1,1,0,0,0
+chai,0,0,1,1,0,0,0,0
+chain,1,0,0,1,1,0,0,0
+chainsaw,1,1,1,0,1,0,0,0
+chair,0,0,1,0,1,0,1,0
+chalcedony,0,0,0,0,1,0,0,0
+chalk,0,0,1,0,1,0,0,0
+chameleon,0,0,0,1,1,0,1,0
+champagne,0,0,1,1,0,0,0,0
+charger,0,0,1,1,1,0,0,0
+charizard,0,0,0,0,1,0,0,0
+charles barkley,0,0,0,0,1,0,0,0
+charleston,0,0,0,1,0,0,0,0
+charlotte,0,0,0,1,1,1,0,0
+charmander,0,0,0,0,1,0,0,0
+charmeleon,0,0,0,0,1,1,1,0
+cheese,1,0,1,1,1,0,0,0
+cheeseburger,0,0,1,1,1,0,0,0
+cheetah,0,0,0,0,0,1,1,0
+chef,0,0,0,0,1,0,0,0
+cherry,0,0,0,1,1,0,0,0
+cherry blossom tree,0,0,0,0,1,0,0,0
+chert,0,0,0,0,1,0,0,0
+chess,0,0,1,0,0,0,0,0
+chessboard,0,0,1,0,0,0,0,0
+chest press,0,0,0,1,1,0,0,0
+chest press machine,0,1,1,1,1,0,0,0
+chicago,0,0,0,0,1,0,0,0
+chicken,0,0,0,1,1,0,1,0
+chicken curry,0,0,1,1,1,0,0,0
+chihuahua,0,0,0,1,1,1,1,0
+child,0,0,0,1,1,1,0,0
+chimpanzee,0,0,0,1,0,1,1,0
+chipmunk,0,0,0,1,0,1,1,0
+chocolate,0,0,1,1,1,0,0,0
+chocolate bar,0,0,1,1,1,0,0,0
+chocolate cake,1,0,1,1,1,0,0,0
+chow chow,1,0,0,1,1,1,0,0
+chris paul,0,0,0,0,1,0,0,0
+christ the redeemer,0,0,0,0,1,0,0,0
+chrysoberyl,0,0,0,0,1,0,0,0
+chrysoprase,0,0,0,0,1,0,0,0
+church,0,0,1,0,1,0,0,0
+cilantro,0,0,0,1,1,0,0,0
+cinder block,0,0,1,0,1,0,0,0
+cisco systems,0,0,1,0,1,0,0,0
+citrine,0,0,1,0,1,0,0,0
+city,0,0,1,0,1,0,0,0
+clean,1,0,0,1,1,0,0,1
+cleopatra,0,0,0,0,0,0,0,0
+cliffhanger,0,0,0,1,0,0,0,0
+climate,0,0,1,0,0,0,0,0
+climbing,0,0,1,1,1,1,1,1
+climbing harness,0,0,1,0,1,0,0,0
+clock,1,1,1,1,1,0,0,0
+cloud,0,0,0,1,0,0,0,0
+clover,0,0,0,1,0,0,0,0
+clownfish,0,0,0,0,0,0,0,0
+clyde drexler,0,0,1,0,0,0,0,0
+coach,0,0,0,0,0,0,0,0
+coal,0,0,1,0,1,0,0,0
+coat,1,0,0,1,1,1,0,0
+cobra,0,0,0,0,0,0,0,0
+cobweb,0,0,0,0,0,0,0,0
+cockatoo,0,0,0,1,0,0,1,0
+cocker spaniel,1,0,0,1,1,1,1,0
+cockpit,0,1,0,0,1,0,0,0
+coconut,1,0,0,1,1,0,0,0
+coffee,0,0,1,0,0,0,0,0
+coffee maker,0,1,1,0,1,0,0,0
+cognizant,0,0,0,0,0,0,0,0
+coin,1,1,1,0,1,0,0,0
+coin purse,0,1,1,0,1,0,0,0
+coinbase global,0,0,0,0,0,0,0,0
+cold open,0,0,0,1,1,1,0,1
+collared lizard,0,0,0,0,0,0,1,0
+collecting,1,0,0,0,1,1,0,1
+college,0,0,0,0,1,0,0,0
+collie,0,0,0,1,0,1,1,0
+colorado,0,0,0,0,1,0,0,0
+colorado springs,0,0,0,0,1,0,0,0
+colosseum,0,0,1,0,1,0,0,0
+columbia,0,0,0,0,1,0,0,1
+columbus,0,0,0,0,0,0,0,0
+comb,1,0,0,0,0,1,0,0
+comic book,0,0,1,1,1,0,0,0
+commercial,1,0,1,1,1,0,0,1
+committee,0,0,1,0,0,0,0,0
+common agama,1,0,0,0,1,0,1,0
+common basilisk,0,0,0,0,0,0,0,0
+common wall lizard,1,0,0,1,1,0,1,0
+compass,0,1,1,1,1,0,0,0
+computer,0,0,1,1,1,0,0,0
+conglomerate,1,0,0,0,1,0,0,0
+connecticut,0,0,0,0,0,0,0,0
+continent,0,0,0,0,1,0,0,0
+control tower,0,1,1,0,1,0,0,0
+cookie,1,0,1,1,1,0,0,0
+cooking,1,0,0,1,1,1,0,0
+coral reef,0,0,0,0,0,0,0,0
+cord,0,0,1,1,1,0,0,0
+corn,0,0,0,1,1,0,0,0
+cottage cheese,0,0,1,1,1,0,0,0
+cotton shirt,0,0,1,1,1,0,0,0
+couch,0,0,0,1,0,0,0,0
+cougar,0,0,0,0,0,1,1,0
+country,0,0,0,0,1,0,0,0
+cow,0,0,0,1,0,1,1,0
+coyote,0,0,0,0,0,1,1,0
+crab,0,0,0,1,1,0,1,0
+cracker,1,0,1,1,1,0,0,0
+cranberry,0,0,0,1,1,0,0,0
+credits,0,0,0,1,1,0,0,0
+crested gecko,0,0,0,1,0,0,0,0
+cricket,0,0,0,1,1,0,0,0
+crocodile,1,0,0,0,1,0,0,0
+croissant,1,0,1,1,1,0,0,0
+crossover,0,0,0,1,1,0,0,1
+crowdstrike,0,0,1,0,1,0,0,0
+crunch,1,0,0,0,1,0,0,0
+crystal,0,0,1,0,1,0,0,0
+cub,0,0,0,1,1,1,1,1
+cup,1,0,1,0,0,0,0,0
+cup of coffee,0,0,1,0,0,0,0,0
+cupcake,1,0,1,1,1,0,0,0
+curb,0,0,0,1,1,0,0,0
+curie,0,0,1,0,0,0,0,0
+currant,0,0,0,1,1,0,0,0
+curry,0,0,0,1,1,0,0,0
+cushion,1,0,1,1,1,0,0,0
+cycling,0,0,1,1,1,0,0,1
+cyclone,0,0,0,1,0,0,0,0
+dachshund,0,0,0,1,1,1,1,0
+dahlia,0,0,0,1,1,0,0,0
+dallas,0,0,0,0,1,1,0,1
+dalmatian,0,0,0,1,0,1,1,0
+dam,0,0,1,1,1,0,0,0
+damian lillard,0,0,0,0,1,0,0,0
+dancer,0,0,0,1,1,0,1,0
+dancing,0,0,0,1,1,0,0,0
+dandelion,0,0,0,1,1,0,0,0
+darwin,0,0,0,0,0,0,0,0
+date,0,0,0,1,1,0,0,0
+dave bing,0,0,0,0,0,0,0,0
+dave cowens,0,0,0,0,1,0,0,0
+dave debusschere,0,0,1,1,1,1,1,1
+david robinson,0,0,0,1,1,1,1,0
+day gecko,0,0,0,1,1,0,1,0
+daytona675,0,0,1,1,1,0,0,1
+de-icing truck,0,1,1,0,1,0,0,1
+deadlift,1,0,0,0,1,0,0,0
+deadlifts,0,0,1,0,1,0,0,0
+deep freezer,0,1,1,0,1,0,0,0
+deer,1,0,0,1,0,1,1,0
+delaware,0,0,0,0,1,0,0,0
+dell technologies,0,0,1,1,1,0,1,0
+delta,0,0,0,1,1,0,0,0
+dennis rodman,0,0,0,0,1,0,0,0
+dentist,0,0,0,0,0,0,0,0
+denver,0,0,0,0,1,0,0,0
+desert,0,0,0,0,1,0,0,0
+desert iguana,0,0,0,0,0,0,1,0
+desert monitor,0,0,0,0,0,0,1,0
+desertx,0,0,0,0,0,0,0,0
+designer,0,0,1,1,1,0,0,0
+desk,1,0,1,1,1,0,1,1
+desk lamp,0,0,1,1,1,0,1,0
+detective,0,0,0,0,1,0,0,0
+detroit,0,0,0,0,0,0,0,1
+dew,0,0,0,1,0,0,0,0
+diamond,0,0,0,0,1,0,0,0
+diavel,0,0,0,0,0,0,0,0
+dice,1,0,1,0,1,0,0,0
+difference,1,0,0,0,0,0,0,0
+dinghy,0,0,1,1,1,0,0,0
+diorite,0,0,0,0,1,0,0,0
+dip station exercises,0,0,1,1,1,0,0,0
+direction,0,0,0,0,0,0,0,0
+director,0,0,0,0,1,0,0,0
+dirk nowitzki,0,0,0,0,0,0,0,0
+dirt,0,0,0,0,0,0,0,0
+disaster,0,0,0,1,0,0,0,0
+dishwasher,1,0,1,1,1,0,0,0
+dispatcher,0,0,1,1,1,0,0,0
+district of columbia,0,0,0,0,1,0,0,0
+ditto,0,0,1,1,1,0,0,1
+doberman pinscher,1,0,0,0,1,1,1,0
+doctor,0,0,0,0,0,0,0,0
+documentary,0,0,0,1,1,0,1,0
+dog,1,0,0,1,0,1,1,0
+dolomite,0,0,0,0,1,0,0,0
+dolph schayes,0,0,0,1,0,0,0,0
+dolphin,0,0,0,1,1,0,0,0
+dominique wilkins,0,0,0,0,0,0,0,0
+donkey,0,0,0,0,0,1,1,0
+donut,0,0,1,1,0,0,0,0
+door,1,1,1,0,1,0,0,0
+doordash,0,0,1,0,1,0,0,0
+doorknob,0,1,1,0,1,0,0,0
+dragon,1,0,0,1,1,0,0,0
+dragonair,0,0,0,1,1,0,0,0
+dragonfruit,0,0,0,1,1,0,0,0
+dragonite,0,0,0,0,1,0,0,0
+drama,0,0,1,0,1,0,0,0
+dratini,0,0,0,0,0,0,0,1
+drawer,0,1,1,1,1,0,0,0
+drawing,1,0,0,1,1,1,1,1
+dream,1,0,0,1,0,0,0,0
+drill,0,1,1,1,1,0,0,0
+drizzle,0,0,0,1,0,0,0,0
+drone,1,0,1,1,1,0,0,0
+drought,0,0,0,0,0,0,0,0
+drum,1,0,0,1,1,0,0,0
+drumming,0,0,1,1,1,0,0,0
+dryer,0,1,1,1,1,1,0,0
+duck,0,0,0,1,0,0,1,0
+duke1290,0,0,0,1,1,0,0,0
+duke200,1,0,0,1,1,1,1,1
+duke390,0,0,0,1,1,0,0,1
+duke790,0,0,0,1,1,0,0,1
+duke890,0,0,0,1,1,1,0,1
+dumbbell chest press,0,0,1,0,1,0,0,0
+dumbbell curl,0,1,1,0,1,0,0,0
+dumbbell deadlift,0,1,1,0,1,0,0,0
+dumbbell fly,0,0,1,1,0,0,0,0
+dumbbell front raise,1,1,1,1,1,0,0,0
+dumbbell hammer curl,0,1,1,0,1,0,0,0
+dumbbell kickback,0,1,1,0,1,0,0,0
+dumbbell lateral raise,1,0,1,1,1,0,0,0
+dumbbell lunge,0,0,1,0,1,0,0,0
+dumbbell lunges,0,0,1,0,1,0,1,0
+dumbbell press,0,1,1,0,1,0,0,0
+dumbbell pullover,0,0,1,1,1,0,0,0
+dumbbell row,0,1,1,0,1,0,0,0
+dumbbell shoulder press,0,1,1,0,1,0,0,0
+dumbbell shrug,1,1,1,0,1,0,0,0
+dumbbell snatch,1,1,1,0,1,0,0,0
+dumbbell squat,0,0,1,0,1,0,1,0
+dumbbell thruster,0,1,1,0,1,0,0,0
+dumbbell tricep kickbacks,0,1,1,0,1,0,0,0
+dumpling,1,0,1,1,1,0,0,0
+dune,0,0,0,1,1,0,0,0
+durian,0,0,0,0,0,0,0,0
+dwyane wade,0,0,0,0,1,0,0,0
+eagle,0,0,0,0,1,0,1,0
+earl monroe,0,0,0,0,1,1,0,0
+earth,0,0,0,0,1,0,0,0
+eastern fence lizard,0,0,0,0,1,0,1,0
+eclogite,0,0,0,0,1,0,0,0
+education,0,0,1,0,1,0,0,0
+eevee,0,0,0,1,0,0,0,0
+egg,0,0,0,1,1,0,0,0
+eiffel tower,0,1,1,0,1,0,0,0
+einstein,0,0,0,0,0,0,0,0
+el paso,0,0,0,0,1,0,0,1
+electabuzz,0,0,0,0,1,0,1,0
+electric car,0,1,1,0,1,0,0,1
+electrician,0,0,1,0,1,0,0,0
+electricity,0,0,1,0,0,0,0,0
+electronic arts,0,0,1,1,1,0,0,0
+elephant,1,0,0,0,0,0,1,0
+elevator,1,1,1,1,1,0,0,0
+elgin baylor,0,0,0,0,1,0,0,0
+elk,1,0,0,1,0,1,0,0
+elliptical intervals,0,0,0,0,1,0,0,0
+elvin hayes,0,0,0,0,1,1,1,0
+embroidery,0,0,1,1,1,0,0,0
+emerald,0,0,0,0,1,0,0,0
+emu,0,0,0,0,0,0,1,0
+engine,0,1,1,1,1,0,0,0
+engineer,0,0,1,0,1,0,0,0
+english springer spaniel,0,0,0,1,1,1,1,0
+envelope,1,0,1,1,1,0,0,0
+environment,0,0,0,1,1,0,0,0
+episode,0,0,0,1,1,0,0,0
+eraser,0,0,1,1,1,0,0,0
+espresso,0,0,1,0,0,0,0,0
+estuary,0,0,0,1,0,0,0,0
+evaporite,0,0,0,1,1,0,0,0
+excavator,1,1,1,0,1,0,0,1
+expression,1,0,0,0,0,0,0,0
+f900r,0,0,1,1,1,0,0,0
+factory,0,1,1,1,1,0,0,0
+falafel wrap,0,0,1,1,1,0,0,0
+falcon,0,0,0,0,0,0,0,0
+family,0,0,0,1,1,0,0,0
+fan,1,0,0,1,1,0,0,0
+farm,1,0,0,1,1,0,0,0
+farmer,0,0,0,0,0,0,0,0
+farmland,0,0,0,0,1,0,0,0
+faucet,0,1,1,1,1,0,0,0
+fearow,0,0,0,0,0,1,1,0
+feather,0,0,1,1,0,0,0,0
+fencing,0,1,0,1,1,1,0,1
+fern,0,0,0,1,1,0,0,0
+ferret,0,0,0,1,0,1,0,0
+ferry,1,0,0,0,1,0,0,0
+field hockey,0,0,0,1,1,0,0,0
+fig,1,0,0,1,1,0,0,0
+fighter jet,1,1,1,0,1,0,0,1
+fire,0,0,1,0,0,0,0,0
+fireblade,0,0,1,0,0,0,0,0
+firefighter,0,0,0,0,0,0,0,0
+firetruck,0,1,1,0,0,0,0,1
+firewood,1,0,0,0,1,0,0,0
+first aid kit,0,0,1,0,1,0,0,0
+first officer,0,0,0,0,1,0,0,0
+fiserv,0,0,0,0,1,0,0,0
+fish,0,0,0,0,0,0,0,0
+fish and chips,0,0,1,1,1,0,0,0
+fishing,0,0,0,1,1,0,0,0
+fishnet,0,0,1,0,0,0,0,0
+five-lined skink,1,0,0,0,0,0,0,0
+fjord,0,0,0,0,1,0,0,0
+flag,1,0,1,0,0,0,0,0
+flamingo,0,0,0,0,0,0,1,0
+flashback,0,0,1,1,0,0,0,0
+flashlight,0,0,1,1,1,0,0,0
+flight attendant,0,0,1,1,1,0,0,1
+flight deck,0,1,1,0,1,0,0,0
+flight engineer,0,1,1,0,1,0,0,1
+flight plan,0,0,1,1,1,0,0,0
+flight simulator,0,0,1,1,1,0,0,0
+flint,0,0,1,0,1,0,0,0
+floor,1,0,1,1,1,0,0,0
+florida,0,0,0,1,1,0,0,0
+flower,0,0,0,1,0,0,0,0
+fluorite,0,0,0,0,1,0,0,0
+fog,0,0,0,1,0,0,0,0
+foot,1,0,1,1,1,0,1,0
+forecast,1,0,0,1,1,1,1,1
+forest,0,0,0,1,1,0,0,0
+fork,1,1,1,0,1,0,0,0
+forklift,1,1,1,0,1,0,0,1
+fort worth,1,0,0,1,1,0,1,1
+fossil,1,0,0,1,1,0,0,0
+fox,0,0,0,1,0,1,0,0
+frame,0,1,1,0,1,0,0,1
+franchise,0,0,0,0,1,0,1,0
+freedom,0,0,1,0,1,0,0,0
+freighter,1,1,1,0,1,0,0,1
+french bulldog,0,0,0,1,1,1,0,0
+french fries,1,0,1,1,1,0,0,0
+fresno,0,0,0,0,1,0,0,0
+fridge,1,1,1,1,1,0,0,0
+fried chicken,0,0,1,1,1,0,0,0
+friend,1,0,0,1,1,1,0,0
+friendship,0,0,1,1,1,0,0,0
+frilled-neck lizard,0,0,0,0,0,0,1,0
+frog,0,0,0,1,0,0,1,0
+front squat,1,0,1,0,1,0,1,0
+funicular,0,0,1,1,0,0,0,0
+fuselage,0,1,1,0,1,0,0,0
+gabbro,0,0,0,0,1,0,0,0
+galileo,0,0,1,0,1,0,0,0
+game,0,0,1,1,1,0,0,0
+gaming,0,0,1,1,1,0,1,0
+gandhi,0,0,0,0,0,0,0,0
+ganges,0,0,0,0,0,0,0,0
+garbage,1,0,1,0,1,0,0,0
+garden,0,0,0,1,0,0,0,0
+gardener,0,0,0,0,0,0,0,0
+gardening,0,0,0,1,1,0,0,0
+gargoyle gecko,0,0,0,0,0,0,1,0
+garnet,0,0,0,0,1,0,0,0
+gary payton,0,0,0,0,1,1,0,0
+gas can,1,0,1,0,1,0,0,0
+gazelle,0,0,0,1,0,1,1,0
+genealogy,0,0,0,1,1,0,1,0
+generator,0,1,1,1,1,0,0,0
+genre,0,0,0,0,0,0,0,0
+george gervin,0,0,0,0,1,0,0,0
+george mikan,1,0,0,0,1,0,1,0
+georgia,0,0,0,0,1,0,0,0
+gerbil,0,0,0,1,0,1,1,0
+german shepherd,1,0,0,0,1,1,1,0
+geyser,0,0,0,0,0,0,0,0
+giannis antetokounmpo,1,0,0,0,1,0,0,0
+gila monster,1,0,0,0,1,0,0,0
+giraffe,1,0,0,1,0,0,1,0
+glacier,0,0,0,0,1,0,0,0
+glass,0,0,1,0,1,0,0,0
+glass lizard,0,0,0,1,1,0,1,0
+glass vase,0,0,1,0,1,0,0,0
+glasses,0,0,1,0,1,0,0,0
+glider,0,0,1,1,0,0,0,0
+globe,1,0,0,0,0,0,0,0
+glove,0,0,1,1,1,0,0,0
+gloves,0,0,1,1,1,0,0,0
+glute bridge,0,0,0,1,1,0,0,0
+glute bridges,0,0,0,1,1,0,0,0
+gneiss,0,0,0,0,1,0,0,0
+goat,0,0,0,1,0,1,0,0
+gold bar,1,1,1,0,1,0,0,0
+gold ring,1,1,0,0,1,0,0,0
+golden retriever,1,0,0,1,1,1,1,0
+goldfish,0,0,0,0,0,0,0,0
+golf,0,0,0,0,0,0,0,0
+golf cart,0,1,1,1,1,0,0,1
+gondola,0,1,1,1,1,0,0,0
+good morning,0,0,0,1,1,0,0,0
+goose,1,0,0,1,0,0,1,0
+gooseberry,0,0,0,1,0,0,0,0
+gorilla,1,0,0,0,0,1,1,0
+grain,1,0,0,1,1,0,0,0
+grand canyon,0,0,0,0,1,0,0,0
+grandmother,1,0,0,1,1,0,0,0
+grandparent,1,0,0,0,1,0,0,0
+granite,0,0,0,0,1,0,0,0
+grape vine,0,0,0,1,1,0,0,0
+grapes,1,0,0,1,1,0,0,0
+grass,0,0,0,1,0,0,0,0
+grassland,0,0,0,1,0,0,0,0
+great barrier reef,0,0,0,0,0,0,0,0
+great dane,1,0,0,1,1,1,1,0
+great pyrenees,1,0,0,1,1,1,0,0
+great wall,1,0,1,0,0,0,0,0
+green basilisk,0,0,0,0,0,0,0,0
+green iguana,0,0,0,0,0,0,1,0
+green salad,0,0,1,1,0,0,0,0
+greywacke,0,0,0,0,0,0,0,0
+grilled salmon,0,0,0,1,1,0,0,0
+grizzly bear,1,0,0,0,0,1,1,0
+grom,0,0,0,0,0,1,0,0
+ground crew,0,0,0,0,1,0,0,0
+ground power unit,0,1,1,1,1,0,0,1
+gsxr1000,0,1,1,1,1,0,0,1
+gsxr600,0,1,1,1,1,0,0,1
+gsxr750,0,1,1,1,1,0,0,1
+guam,0,0,0,0,1,0,0,0
+guava,0,0,0,1,1,0,0,0
+guest star,0,0,0,1,1,0,0,0
+guinea pig,0,0,0,1,0,1,1,0
+guitar,0,0,1,0,1,0,0,0
+gulf,0,0,0,1,1,0,0,0
+gyarados,0,0,0,0,1,0,1,0
+gymnastics,0,0,1,1,1,0,0,0
+gypsum,0,0,0,1,1,0,0,0
+h2r,1,0,0,1,0,0,0,1
+hail,1,0,0,0,1,0,0,0
+hailstorm,0,0,0,0,0,0,0,0
+hairbrush,0,0,1,1,1,0,0,0
+hakeem olajuwon,1,0,0,0,1,1,0,0
+hal greer,0,0,0,0,0,1,0,0
+halite,0,0,0,1,1,0,0,0
+hamburger,1,0,1,1,1,0,0,0
+hammer,1,1,1,0,1,0,0,0
+hammock,0,0,1,1,1,0,0,0
+hamster,0,0,0,1,0,1,0,1
+hand saw,1,0,1,0,1,0,0,0
+hang glider,0,0,1,1,1,0,0,0
+hangar,0,1,1,0,1,0,0,0
+harbor,0,0,0,1,1,0,0,0
+hare,0,0,0,0,0,1,0,0
+hat,1,0,0,1,1,1,1,1
+havanese,0,0,0,1,0,1,1,0
+hawaii,0,0,0,1,1,0,0,0
+hawk,0,0,0,0,0,0,1,0
+hayabusa,0,0,1,0,1,0,0,0
+headphones,0,0,1,1,0,0,0,0
+heatwave,0,0,0,0,0,0,0,0
+hedgehog,0,0,0,0,1,1,0,0
+height,1,0,0,0,1,0,0,0
+helicopter,0,1,1,1,0,0,0,0
+helipad,0,1,1,0,1,0,0,0
+helmet,0,0,1,0,1,0,0,0
+hematite,0,1,0,0,1,0,0,0
+hero,0,0,0,0,1,0,0,0
+hewlett packard,0,0,1,0,1,0,0,0
+hibiscus,0,0,0,1,0,0,0,0
+highway,0,0,1,0,1,0,0,1
+hiking,0,0,0,1,1,0,0,0
+hill,0,0,0,1,0,0,0,0
+hip circles,0,0,1,1,1,0,0,0
+hippopotamus,1,0,0,0,1,0,0,0
+historian,0,0,0,0,1,0,0,0
+hollow hold,0,0,1,1,1,0,0,1
+homebrewing,0,0,1,1,1,0,1,1
+honolulu,0,0,0,0,1,0,0,0
+hook,0,0,0,1,1,0,0,0
+horchata,0,0,1,1,0,0,0,0
+horned lizard,0,0,0,0,0,0,0,0
+hornet,0,0,0,0,0,0,1,0
+hornfels,0,0,0,0,1,0,0,0
+horse,1,0,0,1,0,0,1,0
+hospital,0,0,0,1,1,0,0,0
+hot air balloon,1,0,1,1,0,0,0,0
+hot dog,1,0,1,1,1,0,0,0
+hot spring,0,0,0,1,0,0,0,0
+hot-air balloon,1,0,1,1,0,0,0,0
+hotdog,1,0,1,1,1,0,0,0
+hotel,0,0,1,1,1,0,0,0
+house,1,0,1,0,1,0,0,0
+houston,0,0,0,0,1,0,0,0
+hoverboard,0,0,1,1,1,0,0,1
+hovercraft,0,0,1,1,1,0,0,0
+howlite,0,0,0,1,1,0,0,0
+hp inc,0,0,1,1,1,0,0,0
+hummingbird,0,0,0,1,0,0,0,0
+hummus,0,0,1,1,1,0,0,0
+huntsville,0,0,0,0,1,0,0,0
+hurricane,0,0,0,0,0,0,0,0
+hybrid car,0,1,1,1,1,0,0,1
+hydrangea,0,0,0,1,0,0,0,0
+hydrometeor,0,0,0,1,0,0,0,0
+hyena,0,0,0,0,0,1,1,0
+ibm,0,0,1,0,1,0,0,0
+ice,0,0,0,0,1,0,0,0
+ice axe,0,1,1,0,1,0,0,0
+ice cream,0,0,1,1,1,0,0,0
+ice cream cone,0,0,1,1,1,0,0,0
+ice cube,0,0,1,0,1,0,0,0
+ice hockey,0,0,1,0,1,0,0,0
+ice pop,0,0,1,1,1,0,0,0
+idaho,0,0,0,0,1,1,0,0
+idea,1,0,1,0,1,0,0,0
+iguana,0,0,0,1,0,0,1,0
+illinois,0,0,0,0,1,0,0,0
+ils,0,0,0,1,1,1,1,1
+importance,0,1,0,0,1,0,0,0
+indiana,0,0,0,0,1,1,0,1
+indianapolis,0,0,0,0,1,0,0,1
+ink,0,0,1,1,0,0,0,0
+inn,1,0,0,0,1,1,1,1
+insect,1,0,0,1,0,0,1,0
+intel,0,0,1,1,1,0,0,0
+intuit,1,0,0,1,0,1,0,1
+iolite,0,0,0,0,1,0,0,0
+iowa,0,0,0,0,1,0,0,0
+irish setter,1,0,0,1,1,1,1,0
+iron,0,1,0,0,1,0,0,0
+ironstone,0,0,0,0,1,0,0,0
+isiah thomas,0,0,0,0,1,0,0,1
+island,1,0,0,0,1,0,0,0
+isthmus,0,0,0,0,1,0,0,0
+italian wall lizard,1,0,0,0,1,0,1,0
+ivysaur,0,0,0,1,1,0,1,0
+jackal,0,0,0,0,0,1,1,0
+jacket,1,0,1,1,1,1,0,0
+jackfruit,1,0,0,1,1,0,0,0
+jacksonville,0,0,0,0,1,0,0,0
+jackson’s chameleon,0,0,0,1,1,0,1,0
+jade,0,0,0,0,1,0,0,0
+jaguar,0,0,0,0,0,1,0,0
+james harden,0,0,0,0,0,0,0,0
+james worthy,0,0,0,0,1,1,0,1
+jar,1,0,1,0,0,0,0,0
+jason kidd,0,0,0,0,1,0,0,0
+jeans,0,0,1,0,0,0,0,0
+jellyfish,0,0,0,1,0,0,0,0
+jerry lucas,0,0,0,0,0,1,0,1
+jerry west,0,0,0,0,0,0,0,1
+jet,1,1,1,0,0,0,0,0
+jet ski,0,0,1,0,1,0,0,0
+jewel,0,1,1,0,0,0,0,0
+jewelry,0,1,1,0,1,0,0,0
+john havlicek,0,0,0,0,1,1,1,0
+john stockton,0,0,0,0,0,0,0,0
+jolteon,0,0,0,0,1,1,1,0
+joystick,0,0,1,1,1,0,0,0
+judge,0,0,0,0,1,0,0,0
+jujube,0,0,0,1,1,0,0,0
+julius erving,1,0,0,0,0,0,1,1
+jumping jack,0,0,1,0,0,0,1,0
+jungle,0,0,0,1,0,0,0,0
+jynx,0,0,0,0,0,0,0,0
+kabuto,0,1,0,0,1,0,0,0
+kabutops,0,0,1,0,1,0,0,1
+kakuna,0,0,0,1,0,0,0,0
+kangaroo,0,0,0,1,0,1,1,0
+kansas,0,0,0,0,1,0,0,0
+kansas city,0,0,0,0,0,0,0,0
+kareem abdul-jabbar,1,0,0,0,1,0,0,0
+karl malone,0,0,0,0,1,0,0,0
+katana,0,1,1,0,1,0,0,0
+kawhi leonard,0,0,0,0,1,0,0,0
+kayak,0,0,1,1,1,0,0,0
+kayaking,0,0,0,1,1,0,0,0
+kentucky,0,0,0,0,1,1,0,1
+kettlebell deadlifts,1,1,1,0,1,0,0,0
+kettlebell snatches,0,1,1,0,1,0,0,0
+kettlebell swings,0,1,1,0,1,0,0,0
+kevin durant,0,0,0,0,1,0,0,0
+kevin garnett,0,0,0,0,1,0,1,0
+kevin mchale,1,0,0,0,1,1,1,0
+key,1,1,0,1,1,0,0,0
+keyboard,0,0,1,1,1,0,0,0
+kimchi,0,0,1,1,1,0,0,0
+kitchen,0,0,0,0,1,0,0,0
+kite,0,0,1,1,1,0,0,0
+kitty,0,0,0,1,0,1,1,0
+kiwi,0,0,0,1,1,0,0,0
+knife,1,1,1,0,1,0,0,0
+knitting,0,0,1,1,1,0,0,0
+knob,0,1,1,1,1,0,0,0
+knoxville,0,0,0,0,0,0,0,0
+koala,0,0,0,1,0,1,0,0
+kobe bryant,0,0,0,0,1,0,0,0
+komatiite,0,1,0,1,1,0,0,0
+kombucha,0,0,1,1,0,0,0,0
+komodo dragon,1,0,0,0,1,0,1,0
+ktmrc390,0,0,1,1,1,0,0,1
+ktmrc8,0,0,0,1,1,0,0,0
+kunzite,0,0,0,0,1,0,0,0
+kyanite,0,0,0,0,1,0,0,0
+labrador retriever,1,0,0,1,1,1,1,0
+labradorite,0,0,0,0,1,0,0,0
+lace monitor,0,0,1,1,0,0,0,0
+lacrosse,0,0,0,1,1,0,0,0
+ladder,0,1,1,0,1,0,1,0
+ladybug,0,0,0,0,0,0,1,0
+lagoon,0,0,0,1,0,0,0,0
+lake,0,0,0,0,0,0,0,0
+lam research,0,0,0,1,1,0,1,0
+lamp,1,1,1,1,1,0,0,0
+landing gear,0,1,1,0,1,0,1,1
+lantern,1,0,1,1,1,0,0,0
+lapis lazuli,0,0,0,0,1,0,0,0
+lapras,0,0,0,1,0,0,0,0
+laptop,0,0,1,0,1,0,0,0
+laptop charger,0,0,1,1,1,0,0,0
+larry bird,0,0,0,0,1,0,1,0
+las vegas,0,0,1,0,0,0,0,0
+lasagna,1,0,1,1,1,0,0,0
+lat pulldown,0,0,1,1,1,0,0,0
+lat pulldown machine,0,1,1,1,1,0,0,0
+laterite,0,0,0,1,1,0,0,0
+lawyer,0,0,0,0,0,0,0,0
+leaf,0,0,0,1,0,0,0,0
+lebron james,0,0,0,0,1,0,0,0
+leg curl,0,0,1,1,1,0,1,0
+leg curl machine,0,1,1,1,1,0,1,0
+leg extension,0,0,1,1,1,0,1,0
+leg extension machine,0,1,1,1,1,0,1,0
+leg press,0,0,0,0,1,0,0,0
+lemon,0,0,0,1,0,0,0,0
+lemur,0,0,0,1,0,1,1,0
+lenny wilkens,0,0,0,0,0,1,0,1
+lens,1,0,1,1,1,0,0,0
+leonardo,0,0,0,1,1,0,0,0
+leopard,0,0,0,0,0,1,1,0
+leopard gecko,0,0,0,1,1,0,1,0
+letter,0,0,1,1,0,0,0,0
+lettuce,0,0,0,1,1,0,0,0
+librarian,0,0,0,0,0,0,0,0
+library,0,0,1,1,1,0,0,0
+light,0,0,1,1,0,0,0,0
+light bulb,0,0,1,0,1,0,0,0
+lightbulb,0,0,1,0,1,0,0,0
+lighthouse,0,0,1,0,1,0,0,0
+lilac,0,0,0,1,0,0,0,0
+lime,0,0,1,1,1,0,0,0
+limestone,0,0,0,1,1,0,0,0
+limousine,1,1,1,0,1,0,0,1
+lion,1,0,0,0,0,1,1,0
+lion statue,1,1,1,0,1,0,1,0
+literature,0,0,1,0,1,0,0,0
+lizard,0,0,0,0,0,0,1,0
+llama,0,0,0,1,0,1,1,0
+lobster,0,0,0,0,1,0,0,0
+lobster tail,1,0,0,1,1,0,0,0
+lock,0,1,0,1,1,0,0,0
+lollipop,0,0,1,1,1,0,0,0
+los angeles,0,0,0,0,1,0,0,0
+louisiana,0,0,0,0,0,0,0,0
+louisville,0,0,0,0,0,1,0,1
+love,0,0,0,1,0,0,0,0
+lunchbox,1,0,1,1,1,0,0,0
+lunge,0,0,0,1,1,0,1,0
+lychee,0,0,0,1,1,0,0,0
+mac & cheese,0,0,1,1,0,0,0,0
+machu picchu,0,0,1,0,1,0,0,0
+madison,0,0,0,1,0,0,0,0
+magic,0,0,0,0,0,0,0,0
+magic johnson,0,0,0,0,0,0,0,0
+magic wand,0,0,1,0,0,0,0,0
+magikarp,0,0,0,0,0,0,0,0
+magmar,0,0,0,1,0,0,0,0
+magnet,0,1,1,1,1,0,0,0
+magnetite,0,1,0,0,1,0,0,0
+magnolia,0,0,0,0,0,0,0,0
+maine,0,0,0,0,1,1,0,1
+maintenance base,0,0,0,1,1,0,0,0
+malachite,0,1,0,0,1,0,0,0
+maltese,0,0,0,1,1,1,0,0
+manager,0,0,0,0,1,0,0,0
+mango,1,0,0,1,1,0,0,0
+mangrove forest,0,0,0,1,1,0,0,0
+map,1,0,1,1,1,0,0,0
+maple,0,0,0,1,1,0,0,0
+maple tree,0,0,0,0,1,0,0,0
+marble,0,0,1,0,1,0,0,0
+marie antoinette,0,0,0,0,0,0,0,0
+marigold,0,0,0,1,0,0,0,0
+marine iguana,0,0,0,1,0,0,1,0
+market,0,0,0,0,1,0,0,0
+marsh,0,0,0,1,0,0,0,0
+maryland,0,0,0,1,1,0,0,0
+mask,0,0,1,0,0,0,0,0
+massachusetts,0,0,0,1,1,0,0,0
+match group,0,0,0,1,1,0,0,0
+matcha,0,0,1,1,1,0,0,0
+meadow,0,0,0,1,0,0,0,0
+meal,1,0,1,1,0,0,0,0
+mechanic,0,0,1,1,1,0,0,0
+medicine ball russian twists,0,0,1,1,1,0,0,0
+medicine ball slams,1,0,1,1,1,0,0,0
+meditation,0,0,0,1,1,0,0,0
+mediterranean house gecko,0,0,0,1,1,0,1,0
+meerkat,0,0,0,0,1,1,1,0
+memphis,0,0,0,0,1,0,0,0
+menu,1,0,1,1,1,0,0,0
+mesa,0,0,0,1,1,0,0,0
+meta platforms,0,0,1,1,1,0,0,0
+metapod,0,0,0,1,1,0,1,0
+meteor,1,0,0,1,1,0,0,0
+mew,0,0,1,1,1,1,1,1
+mewtwo,0,0,0,0,1,0,0,0
+mexican beaded lizard,0,0,0,0,0,0,0,0
+miami,0,0,0,0,1,0,0,0
+michael jordan,0,0,0,0,0,1,0,0
+michigan,0,0,0,0,1,1,0,1
+micron technology,0,0,1,1,1,0,0,0
+microphone,0,0,1,1,1,0,0,0
+microscope,0,1,1,0,1,0,0,0
+microsoft,0,0,1,1,1,0,0,0
+microstrategy,0,0,1,0,1,0,0,0
+microwave,0,0,1,1,0,0,0,0
+midseason,0,0,0,1,1,0,1,0
+milwaukee,0,0,0,1,1,0,0,0
+miniature schnauzer,0,0,0,1,1,1,1,0
+minivan,0,1,1,1,1,0,0,1
+minneapolis,0,0,0,0,1,0,0,0
+minnesota,0,0,0,0,1,1,0,0
+mirror,0,1,1,0,1,0,0,0
+mississippi,0,0,0,0,0,0,0,0
+missouri,0,0,0,0,0,1,0,0
+mixed martial arts,0,0,1,0,1,0,1,0
+mixer,1,1,1,1,1,0,0,0
+mizzle,0,0,0,1,0,0,0,0
+mobile phone,0,0,1,1,1,0,0,0
+mojito,0,0,1,0,0,0,0,0
+moldavite,0,0,1,0,1,0,0,0
+moltres,0,0,0,0,0,1,0,0
+mona lisa,0,0,1,0,0,0,0,0
+money,1,1,1,0,0,0,0,0
+monitor lizard,1,0,0,0,1,0,1,0
+monkey,0,0,0,0,0,1,0,0
+monorail,0,1,1,0,1,0,0,1
+monsoon,0,0,0,1,0,0,0,0
+monster1200,0,0,1,1,1,1,1,0
+monster821,0,0,0,1,1,0,1,0
+montage,0,0,1,0,1,0,0,0
+montana,0,0,0,1,1,1,0,0
+moon,1,0,0,0,1,0,0,0
+moonstone,0,0,0,0,1,0,0,0
+moose,1,0,0,1,0,1,0,0
+mop,0,0,1,1,0,0,0,0
+moped,0,1,1,1,1,0,0,1
+morganite,0,0,0,0,1,0,0,0
+moses malone,0,0,0,0,1,0,1,0
+mosquito net,0,0,1,1,1,0,0,0
+moss,0,0,0,1,1,0,0,0
+motorcycle,0,1,1,0,1,0,0,1
+motorola solutions,0,0,1,1,1,0,0,0
+mount everest,0,0,0,0,1,0,0,0
+mount kilimanjaro,0,0,0,1,1,0,0,0
+mountain,1,0,0,0,1,0,0,0
+mountain biking,0,0,0,1,1,0,0,1
+mountain climber,0,0,0,0,1,0,0,0
+mountain climbers,0,0,0,0,1,0,0,0
+mountain range,0,0,0,0,1,0,0,0
+mourning gecko,0,0,0,1,0,0,1,0
+mouse,1,0,0,1,1,1,0,0
+mousepad,0,0,1,1,1,0,0,0
+mozart,0,0,1,1,1,0,0,0
+mr. mime,0,0,1,0,1,0,0,0
+mt07,0,0,0,1,1,0,0,0
+mt09,0,0,0,1,1,0,0,0
+mudstone,0,0,0,0,1,0,0,0
+mug,1,0,1,0,0,0,0,0
+mulberry,0,0,0,1,1,0,0,0
+mule,0,0,0,0,0,1,1,0
+multistrada,0,1,1,0,1,0,0,1
+museum,0,0,1,1,1,0,0,0
+music,0,0,1,1,1,0,1,0
+musician,0,0,1,1,1,0,0,0
+nail,0,0,0,1,1,0,0,1
+napoleon,0,0,0,0,0,0,0,0
+narwhal,0,0,0,1,0,1,0,0
+nashville,0,0,0,0,0,0,0,0
+nate archibald,0,0,0,0,1,1,0,0
+nate thurmond,0,0,0,0,1,1,1,0
+nebraska,0,0,0,0,1,0,0,0
+nectarine,0,0,0,1,1,0,0,0
+needle,1,1,1,1,1,0,0,0
+neighbor,1,0,0,1,1,1,0,0
+nest,1,0,0,1,1,0,0,0
+netflix,0,0,0,1,1,0,0,0
+nettle,0,0,0,0,1,0,0,0
+network,0,1,1,1,0,0,0,0
+nevada,0,0,0,0,1,0,0,0
+new hampshire,0,0,0,0,1,0,0,0
+new jersey,0,0,0,1,1,0,0,0
+new mexico,0,0,0,0,1,0,0,0
+new orleans,0,0,0,1,1,0,0,0
+new york,0,0,0,0,1,0,0,0
+new york city,0,0,1,0,1,0,0,0
+newfoundland,0,0,0,1,1,0,0,0
+newton,0,0,0,0,0,0,0,0
+niagara falls,0,0,0,0,0,0,0,0
+nile monitor,1,0,0,0,1,0,1,0
+ninja400,0,0,1,1,1,0,1,1
+ninja650,0,1,1,0,1,0,0,1
+north carolina,0,0,0,0,1,0,0,0
+north dakota,0,0,0,0,1,0,0,0
+northern mariana islands,0,0,0,0,1,0,0,0
+notebook,1,0,1,1,1,0,0,0
+nurse,0,0,0,0,1,0,0,0
+nvidia,0,0,1,0,1,0,0,0
+oak,0,0,0,0,1,0,0,0
+oak tree,1,0,0,0,1,0,0,0
+oasis,0,0,0,0,0,0,0,0
+oatmeal,0,0,1,1,1,0,0,0
+obsidian,0,0,1,0,1,0,0,0
+ocean,1,0,0,0,0,0,0,0
+ocelot,0,0,0,1,0,1,0,0
+octopus,0,0,0,1,0,0,0,0
+office,0,0,1,1,1,0,0,0
+ohio,0,0,0,0,0,0,0,0
+oil,1,0,0,1,0,0,0,0
+oklahoma,0,0,0,0,1,0,0,0
+oklahoma city,0,0,0,0,0,0,0,0
+olive,0,0,0,1,1,0,0,0
+olive tree,0,0,0,0,1,0,0,0
+omaha,0,0,0,0,1,1,0,0
+omanyte,0,0,0,0,1,0,0,0
+omastar,0,0,0,0,0,0,0,0
+onyx,0,0,0,0,1,0,0,0
+opal,0,0,0,0,0,0,0,0
+opossum,1,0,0,1,0,1,1,0
+oracle,0,0,0,1,1,0,0,0
+orange,0,0,0,0,0,0,0,0
+orangutan,0,0,0,1,0,1,1,0
+orc,0,0,0,0,0,1,1,0
+orchid,0,0,0,1,0,0,0,0
+oregon,0,0,0,0,1,1,0,0
+origami,0,0,1,1,1,0,0,0
+orlando,0,0,0,0,1,0,0,1
+oscar robertson,0,0,0,0,1,0,0,0
+ostrich,1,0,0,0,1,0,1,0
+otter,0,0,0,1,0,1,0,0
+oven,1,1,1,1,1,0,0,0
+overhead barbell press,0,1,1,0,1,0,0,0
+overhead press,1,0,0,0,1,0,0,0
+owl,0,0,0,1,1,0,0,0
+ozone,0,0,1,0,0,0,0,0
+paddle,1,0,1,1,1,0,0,0
+paddleboard,0,0,1,1,1,0,0,0
+paella,0,0,1,1,1,0,0,0
+paint can,1,0,1,0,1,0,0,0
+paintbrush,0,0,1,1,0,0,0,0
+painting,1,0,0,1,1,0,0,0
+palantir technologies,0,0,1,1,0,0,1,0
+palo alto,0,0,0,1,1,0,0,0
+pan,1,0,0,1,0,0,0,0
+pancake,0,0,1,1,0,0,0,0
+pancakes,0,0,1,1,0,0,0,0
+panda,0,0,0,1,0,1,0,0
+pangolin,0,0,0,1,0,0,0,0
+panigalev2,0,0,1,1,1,1,0,1
+panigalev4,0,0,1,1,1,1,0,1
+pansy,0,0,0,1,0,0,0,0
+panther chameleon,0,0,0,1,1,0,1,0
+pants,0,0,1,1,0,0,1,0
+papaya,0,0,0,1,1,0,0,0
+paper,1,0,1,1,1,0,0,0
+paper clip,0,1,1,0,1,0,0,0
+paperclip,0,1,1,0,0,0,0,0
+paraglider,0,0,0,1,0,0,0,0
+parent,1,0,0,1,1,0,0,0
+paris,0,0,0,0,0,0,0,0
+park,1,0,0,1,1,0,0,0
+parrot,0,0,0,0,0,0,0,0
+passionfruit,0,0,0,1,1,0,0,0
+pasta,1,0,1,1,1,0,0,0
+patience,0,0,0,1,1,0,0,0
+patrick ewing,0,0,0,1,1,0,0,0
+paul arizin,0,0,0,0,0,0,0,0
+paul pierce,0,0,0,0,1,0,0,0
+paypal,0,0,1,1,0,0,0,0
+peach,0,0,0,1,0,0,0,0
+peacock,0,0,0,0,0,0,1,0
+pear,0,0,0,1,0,0,0,0
+pec deck,0,1,1,1,1,0,0,0
+pegmatite,0,0,0,0,1,0,0,0
+pembroke welsh corgi,0,0,0,1,1,1,1,0
+pen,1,0,1,0,0,0,0,0
+pencil,0,0,1,1,1,0,0,0
+penguin,0,0,0,0,0,0,1,0
+peninsula,1,0,0,0,0,0,0,0
+pennsylvania,0,0,0,0,1,0,0,0
+percentage,0,0,0,0,1,0,0,0
+peridot,0,0,0,1,1,0,0,0
+peridotite,0,0,0,0,1,0,0,0
+persimmon,0,0,0,1,1,0,0,0
+person,1,0,0,0,1,1,1,0
+pete maravich,0,0,0,1,1,0,1,0
+petra,0,0,0,0,0,0,0,0
+petrified forest,0,0,0,0,1,0,0,0
+petunia,0,0,0,1,0,0,0,0
+philadelphia,0,0,0,0,1,0,0,0
+pho,0,0,0,1,0,0,0,0
+phoenix,0,0,0,0,0,0,0,0
+phone,1,0,1,1,1,0,0,0
+photo,1,0,1,1,1,0,0,0
+photographer,0,0,0,0,1,0,0,0
+photography,0,0,1,1,1,0,0,0
+phyllite,0,0,0,0,1,0,0,0
+piano,0,0,1,1,1,0,0,0
+pickup truck,1,1,1,0,1,0,0,1
+picture,1,0,1,1,1,0,0,0
+picture frame,1,1,1,0,1,0,1,0
+pidgeot,0,0,0,0,1,0,1,0
+pidgeotto,0,0,1,1,1,0,1,0
+pidgey,0,0,0,0,1,0,1,0
+pig,0,0,0,1,0,1,0,0
+pikachu,0,0,0,0,1,1,1,0
+pike,0,0,0,0,1,0,0,0
+pillow,0,0,1,1,1,0,0,0
+pilot,0,1,0,1,1,0,0,1
+pilot episode,0,0,1,1,1,0,1,0
+pina colada,0,0,1,1,0,0,0,0
+pine tree,0,0,0,0,1,0,0,0
+pineapple,0,0,0,1,0,0,0,0
+pineapple slice,1,0,1,1,0,0,0,0
+pipe,1,1,1,0,1,0,0,0
+pirate ship,0,0,1,0,0,0,0,0
+pizza,1,0,1,1,0,0,0,0
+pizza slice,1,0,1,1,1,0,0,0
+plane,1,1,1,0,1,0,0,1
+planet,1,0,0,0,1,0,0,0
+plank,0,0,0,0,1,0,0,0
+plant,1,0,0,1,1,0,0,0
+plastic,1,0,1,1,1,0,0,0
+plate,1,0,0,0,1,0,0,0
+plateau,0,0,0,0,1,0,0,0
+platypus,0,0,0,1,0,1,0,0
+playground,0,0,1,1,1,0,0,0
+plot twist,0,0,1,0,1,0,0,0
+plum,0,0,0,1,1,0,0,0
+plumber,0,1,0,0,1,0,0,0
+pneumatic nail gun,1,1,1,0,1,0,0,0
+podcasting,0,0,1,0,1,0,1,0
+poet,0,0,0,1,1,0,0,0
+polar bear,1,0,0,0,0,1,0,0
+police car,0,1,1,0,1,0,0,1
+police officer,0,0,0,0,1,0,0,1
+pomegranate,0,0,0,1,1,0,0,0
+pomeranian,0,0,0,1,1,1,1,0
+poodle,0,0,0,1,1,1,1,0
+popcorn,0,0,1,1,0,0,0,0
+porcupine,0,0,0,0,1,1,0,0
+portland,0,0,0,0,1,0,0,0
+potato,1,0,0,1,1,0,0,0
+potion bottle,1,0,1,0,1,0,0,0
+pottery,0,0,1,0,1,0,0,0
+prairie,0,0,0,1,0,0,0,0
+prediction,0,0,0,1,0,0,0,0
+pressure washer,0,1,1,0,1,0,0,0
+printer,0,0,1,1,1,0,0,0
+private jet,0,1,1,0,0,0,0,1
+problem,0,0,0,0,0,0,0,0
+procedure,0,0,1,1,1,0,0,0
+prop,1,0,1,1,1,0,0,1
+propeller,1,1,1,1,0,0,0,0
+protagonist,0,0,0,0,1,0,0,0
+protein shake,0,0,1,1,0,0,0,0
+puerto rico,0,0,0,1,1,0,0,0
+puffin,1,0,0,1,0,0,1,0
+pull-up,0,1,0,0,1,0,0,0
+pull-up bar exercises,0,1,1,0,1,0,0,0
+pumice,0,0,0,0,1,0,0,0
+push-up,0,0,1,0,1,0,0,0
+pushback tug,1,1,1,1,1,0,0,1
+puzzles,0,0,1,0,1,0,0,0
+pyramids,1,0,1,0,1,0,0,0
+pyramids of giza,1,0,1,0,1,0,0,0
+pyrite,0,1,0,0,1,0,0,0
+quail,0,0,0,1,0,0,1,0
+qualcomm,0,0,1,0,1,0,0,0
+quality,0,0,0,1,1,0,0,0
+quartz,0,0,0,0,1,0,0,0
+quartzite,0,0,0,0,1,0,0,0
+queen,1,0,0,0,1,0,0,0
+quill,0,0,1,0,0,0,0,0
+quilt,0,0,1,1,1,0,0,0
+r1,0,0,0,1,1,1,0,1
+r1250gs,0,1,1,1,1,1,0,1
+r6,0,0,0,0,0,0,0,0
+rabbit,0,0,0,1,1,1,1,0
+raccoon,0,0,0,1,0,1,0,0
+radio,0,0,1,1,1,0,0,0
+radish,0,0,0,1,1,0,0,0
+raft,0,0,1,1,1,0,0,0
+rain,0,0,0,1,0,0,0,0
+rainbow,0,0,0,0,0,0,0,0
+raincloud,0,0,0,0,0,0,0,0
+raincoat,0,0,1,1,0,0,0,0
+raindrift,0,0,0,1,0,0,0,0
+rainfall,0,0,0,1,0,0,0,0
+rainforest,0,0,0,1,0,0,0,0
+rainpants,0,0,1,1,0,0,0,0
+rainscape,0,0,0,1,0,0,0,0
+rainstorm,0,0,0,1,0,0,0,0
+rainy,0,0,0,0,0,0,0,0
+rake,0,0,0,0,1,0,0,0
+raleigh,0,0,0,0,0,0,0,1
+ramen bowl,0,0,1,1,1,0,0,0
+ramp agent,0,0,1,1,1,0,0,1
+raspberry,0,0,0,1,0,0,0,0
+rat,0,0,0,1,0,1,1,0
+raticate,0,0,0,1,0,1,1,1
+rating,1,0,1,0,1,1,1,1
+rattata,0,0,0,1,1,1,1,0
+ray allen,0,0,0,0,1,0,0,0
+reading,0,0,0,0,1,1,0,1
+reality show,0,0,1,0,0,0,1,0
+recap,0,0,0,1,1,0,0,0
+red fox,0,0,0,1,0,1,1,0
+red panda,0,0,0,1,0,1,0,0
+red-headed agama,0,0,0,0,1,0,1,0
+refrigerator,1,1,1,0,1,0,0,0
+reggie miller,0,0,0,0,1,1,0,1
+reindeer,0,0,0,1,0,1,1,0
+remote,0,0,0,1,1,0,0,0
+replacement,1,1,1,1,1,0,0,1
+reporter,0,0,0,0,0,0,0,0
+rerun,0,0,0,1,1,1,0,0
+reservoir,1,0,1,1,0,0,0,0
+resistance band chest press,0,0,1,1,1,0,0,0
+resistance band rows,0,0,1,1,1,0,0,0
+resistance band squats,0,0,1,1,1,0,0,0
+restaurant,1,0,1,0,1,0,0,0
+revenue,1,0,0,0,0,0,0,0
+revolution,1,0,0,0,1,0,0,0
+rhinoceros,1,0,0,0,0,0,0,0
+rhode island,0,0,0,1,1,0,0,0
+rhodesian ridgeback,0,0,0,0,1,1,1,0
+rhodonite,0,0,0,0,1,0,0,0
+rhyolite,0,0,0,0,1,0,0,0
+rice,0,0,0,1,1,0,0,0
+rick barry,0,0,0,1,1,1,0,1
+rickshaw,0,1,1,1,1,0,0,1
+ridge,0,0,0,0,1,0,0,0
+ring,1,1,1,1,1,0,0,0
+river,0,0,0,1,0,0,0,0
+riverbank,0,0,0,1,1,0,0,0
+rninet,0,0,0,0,1,0,0,0
+road,0,0,1,1,1,0,0,1
+roast beef,1,0,1,1,1,0,0,0
+roast turkey,0,0,1,1,1,0,1,0
+roast vegetables,0,0,1,1,1,0,0,0
+robert parish,0,0,0,0,0,0,0,0
+robin,0,0,0,1,1,1,1,0
+robot,0,1,1,1,1,0,0,1
+robot dog,0,1,1,1,1,0,1,1
+rock,1,0,0,0,1,0,0,0
+rock agama,0,0,0,0,1,0,1,0
+rocket,1,1,1,0,1,0,0,0
+rocking chair,0,0,1,1,1,0,1,0
+rod,1,1,0,1,1,1,0,0
+rollerblades,0,0,1,0,1,0,0,1
+romanian deadlift,0,0,0,1,1,0,1,0
+rooster,1,0,0,0,1,0,1,0
+rope,1,0,1,0,1,0,0,0
+rope ladder,0,0,1,1,1,0,0,0
+rose,0,0,0,1,0,0,0,0
+rose bush,0,0,0,0,1,0,0,0
+rose quartz,0,0,0,0,1,0,0,0
+rottweiler,1,0,0,0,1,1,1,0
+rowing,0,0,0,1,1,0,0,0
+rowing machine pulls,0,1,1,0,1,0,0,0
+rsv4,0,0,0,0,0,0,0,0
+ruby,0,0,0,0,0,0,0,0
+rug,1,0,1,1,1,1,0,0
+rugby league,0,0,0,0,1,0,1,0
+rugby union,0,0,0,1,1,0,1,0
+ruler,1,1,1,0,1,0,0,0
+rum punch,0,0,1,0,0,0,0,0
+running,0,0,0,0,1,1,0,1
+runway,0,1,1,0,1,0,0,1
+russell westbrook,0,0,0,0,1,0,0,0
+rv,1,0,0,1,0,1,0,1
+s1000r,0,1,0,1,1,0,0,1
+s1000rr,0,1,1,1,1,1,0,1
+sacramento,0,0,0,0,1,0,0,0
+safe,1,0,1,1,1,1,1,1
+sagebrush,0,0,0,0,0,0,0,0
+sahara,0,0,0,0,0,0,0,0
+sahara desert,0,0,0,0,1,0,0,0
+sailboat,0,0,1,0,0,0,0,0
+sailing,0,0,1,0,1,0,0,0
+sailor,0,0,0,0,1,0,0,0
+saint bernard,0,0,0,0,1,1,0,0
+sake,0,0,1,0,0,0,0,0
+salad,0,0,1,1,0,0,0,0
+salak,0,0,0,1,1,0,0,0
+salamander,0,0,0,1,0,0,1,0
+salesforce,0,0,0,1,1,0,0,0
+salesperson,0,0,1,1,1,0,0,0
+salmon,0,0,0,0,0,0,0,0
+salt flat,0,0,0,1,1,0,0,0
+salt lake city,0,0,0,0,1,0,0,0
+sam jones,0,0,0,0,0,1,0,0
+samosa,0,0,1,1,1,0,0,0
+samoyed,1,0,0,1,1,1,0,0
+san antonio,0,0,0,0,1,0,0,0
+san diego,0,0,0,0,1,0,0,1
+san francisco,0,0,0,0,1,0,0,0
+san jose,0,0,0,0,1,0,0,0
+sand,0,0,0,0,1,0,0,0
+sand lizard,0,0,0,0,0,0,1,0
+sandbag cleans,1,0,1,1,1,0,0,0
+sandstone,0,0,0,0,1,0,0,0
+sandwich,0,0,1,1,0,0,0,0
+sapphire,0,0,1,0,1,0,0,0
+satanic leaf-tailed gecko,0,0,0,1,0,0,0,0
+satellite,0,1,1,1,1,0,0,0
+savanna,0,0,0,0,0,0,0,0
+savannah monitor,1,0,0,1,1,0,1,0
+saw,1,0,0,0,1,1,1,1
+scarf,0,0,1,1,1,0,0,0
+schist,0,0,0,0,1,0,0,0
+school,0,0,1,1,1,0,0,0
+school bus,0,1,1,1,1,0,0,1
+scientist,0,0,0,0,1,0,0,0
+scissors,1,1,1,0,1,0,0,0
+scooter,0,0,1,1,1,0,0,1
+scoria,0,0,1,0,1,0,0,0
+scottie pippen,0,0,0,0,0,1,1,0
+scottish terrier,0,0,0,1,1,1,1,0
+scrambler,0,0,1,0,0,0,0,1
+scrapbooking,0,0,1,1,1,0,0,0
+screwdriver,1,1,1,0,1,0,0,0
+script,0,0,1,0,0,0,0,0
+sculpting,1,0,1,1,1,0,0,0
+scyther,0,0,0,0,0,0,0,0
+sea lion,1,0,0,1,1,1,0,0
+sea turtle,1,0,0,1,0,0,0,0
+seal,1,0,0,1,1,1,0,0
+seaplane,0,1,1,1,0,0,0,0
+season,0,0,0,0,0,0,0,0
+seated row,0,0,0,1,1,0,1,1
+seated row machine,0,1,1,1,1,0,0,0
+seattle,0,0,0,1,1,0,0,0
+sector,1,0,1,0,1,0,0,0
+segway,0,0,1,1,1,0,0,1
+sequoia,0,0,0,0,1,0,0,0
+series finale,0,0,0,1,1,0,0,0
+serpentine,0,0,0,1,1,0,0,0
+serpentinite,0,0,0,0,1,0,0,0
+servicenow,0,0,1,1,1,0,0,0
+set,0,0,0,1,1,1,0,1
+sewing,0,0,1,1,1,1,0,0
+shakespeare,0,0,1,0,1,0,0,0
+shale,0,0,0,0,1,0,0,0
+shaquille o'neal,1,0,0,0,1,0,0,0
+shark,1,0,0,0,0,0,0,0
+sheep,0,0,0,1,0,1,0,0
+shelf,1,0,0,1,1,0,0,0
+shell,0,0,0,1,0,0,0,0
+shetland sheepdog,0,0,0,1,1,1,1,0
+shiba inu,0,0,0,1,1,1,0,0
+shih tzu,0,0,0,1,1,1,0,0
+ship,1,1,1,0,1,0,0,0
+shirt,1,0,1,1,1,0,0,0
+shoe,1,0,1,1,1,0,0,0
+shoes,0,0,1,1,0,0,0,0
+shoulder press machine,0,1,1,1,1,0,0,0
+shovel,1,1,1,0,1,0,0,0
+showrunner,0,0,0,0,1,0,0,0
+shrimp cocktail,0,0,1,1,0,0,0,0
+shrub,0,0,0,0,0,0,0,0
+siberian husky,1,0,0,1,1,1,1,0
+side plank with leg lift,0,0,0,1,1,0,1,0
+sidekick,0,0,1,1,1,1,0,0
+silence,0,0,0,1,0,0,0,0
+siltstone,0,0,0,0,1,0,0,0
+singer,0,0,0,1,1,0,0,0
+singing,0,0,0,1,1,0,0,0
+single-leg romanian deadlifts,0,0,0,0,1,0,0,0
+sink,1,0,0,0,0,0,0,0
+sit-up,0,0,0,0,1,0,0,0
+sitcom,0,0,1,0,1,0,1,0
+skate park,0,0,1,1,1,0,0,0
+skateboard,0,0,1,0,1,0,0,1
+skateboarding,0,0,1,1,1,0,0,1
+skiing,0,0,0,0,1,0,0,0
+skill saw,1,1,1,1,1,0,0,0
+skirt,1,0,1,1,1,0,0,0
+skunk,0,0,0,0,0,1,0,0
+skyscraper,1,0,1,0,1,0,0,0
+slate,0,0,1,0,1,0,0,0
+sled,0,0,1,1,1,0,0,0
+sled pushes,1,1,1,1,1,0,0,0
+sleeping bag,0,0,1,1,1,0,0,0
+sleet,0,0,0,1,1,0,0,0
+sloth,0,0,0,1,0,1,0,0
+slow worm,0,0,0,1,0,0,0,0
+smartphone,1,0,1,1,1,0,0,0
+smartwatch,0,0,1,1,1,0,0,0
+smith machine bench press,1,1,1,0,1,0,0,0
+smith machine squat,0,1,1,0,1,0,1,0
+smith machine squats,0,1,1,0,1,0,1,0
+smoky quartz,0,0,0,0,1,0,0,0
+smoothie,0,0,1,1,0,0,0,0
+snake,0,0,0,1,0,0,0,0
+snatch,1,0,0,1,1,1,0,0
+snorlax,0,0,0,1,0,1,0,0
+snow,0,0,0,1,1,0,0,0
+snow leopard,0,0,0,0,0,1,1,0
+snowboarding,0,0,0,1,1,0,0,0
+snowfall,0,0,0,1,1,0,0,0
+snowflake,0,0,0,1,0,0,0,0
+snowmobile,0,0,1,1,1,0,0,0
+snowshoe,0,0,1,1,1,1,0,0
+snowstorm,0,0,0,1,0,0,0,0
+soap,0,0,1,1,0,0,0,0
+soap opera,0,0,1,1,0,0,0,0
+soapstone,0,0,0,0,1,0,0,0
+soccer,0,0,0,0,1,0,0,0
+soccer ball,1,0,1,1,1,0,0,0
+society,0,0,1,1,1,0,0,0
+sock,0,0,1,1,0,0,0,0
+socks,0,0,1,1,0,0,0,0
+sodalite,0,0,0,0,1,0,0,0
+sofa,0,0,1,1,1,0,1,0
+soju,0,0,1,1,0,0,0,0
+soldier,0,0,0,0,1,0,0,0
+solomon islands skink,0,0,0,0,0,0,0,0
+song,0,0,1,1,1,0,0,0
+soup,0,0,1,1,0,0,0,0
+soursop,1,0,0,1,1,0,0,0
+south carolina,0,0,0,1,1,0,0,0
+south dakota,0,0,0,0,1,0,0,0
+spaceship,0,1,1,0,1,0,0,0
+spaghetti,0,0,1,1,1,0,0,0
+sparrow,0,0,0,0,0,0,1,0
+spearow,0,0,0,1,1,0,1,0
+speedboat,0,0,1,0,1,0,0,0
+speedtriple,0,1,1,0,1,0,0,1
+sphinx,0,0,1,1,1,0,0,0
+spider,0,0,0,1,0,0,1,0
+spin-off,0,0,1,1,1,0,0,0
+spinach,0,0,0,1,0,0,0,0
+spinel,0,0,0,0,1,0,0,0
+splunk,0,0,1,0,1,0,0,0
+sponge,0,0,0,1,0,0,0,0
+spoon,1,1,1,1,1,0,0,0
+squat,0,0,0,0,1,0,1,0
+squid,0,0,0,1,0,0,0,0
+squirrel,1,0,0,0,0,1,1,0
+squirtle,0,0,0,1,1,0,0,0
+stadium,0,0,1,1,1,0,0,0
+stair climber intervals,0,1,1,0,1,0,0,0
+stapler,1,1,1,0,1,0,0,0
+star,1,0,0,0,1,0,0,0
+starfish,0,0,0,1,0,0,0,0
+starfruit,0,0,0,1,1,0,0,0
+starmie,0,0,1,1,1,0,0,0
+stationary bike sprints,0,0,1,0,1,0,0,0
+statue,1,0,1,0,1,0,0,0
+statue of liberty,1,1,1,0,1,0,0,0
+steak,1,0,0,0,1,0,0,0
+stephen curry,0,0,0,0,1,0,0,0
+steppe,0,0,0,1,0,0,0,0
+steve nash,0,0,0,0,1,0,0,0
+stick,1,0,1,1,1,1,1,1
+stone,1,0,1,0,1,0,0,0
+stonehenge,0,0,1,0,0,0,0,0
+storm,1,0,0,0,0,0,0,0
+stove,0,1,1,0,1,0,0,0
+strait,0,0,0,0,1,0,0,0
+stranger,0,0,0,0,1,0,0,0
+strawberry,0,0,0,1,0,0,0,0
+streaming,0,0,0,1,1,1,0,1
+street,1,0,1,1,1,0,0,1
+streetfighter,0,1,1,0,1,0,0,0
+streettriple,0,0,0,0,1,1,0,1
+string,0,0,0,0,0,0,0,0
+student,0,0,0,0,1,0,0,0
+studio,0,0,1,1,1,0,0,0
+submarine,0,1,1,1,1,0,0,0
+subscription,0,0,0,1,1,0,0,0
+suburb,0,0,1,0,0,0,0,0
+subway,0,1,1,1,1,0,0,1
+sugarcane,0,0,0,0,1,0,0,0
+suitcase,1,0,1,1,1,0,0,1
+summit,1,0,0,0,1,0,0,0
+sun,1,0,0,1,0,0,0,0
+sunflower,1,0,0,1,1,0,0,0
+sunglasses,0,0,1,0,0,0,0,0
+sunscreen,0,0,1,1,0,0,0,0
+sunstone,0,0,0,0,1,0,0,0
+superman,0,0,1,0,1,0,1,0
+superman holds,1,0,1,1,1,1,1,1
+surfing,0,0,0,1,1,0,0,0
+surgeon,0,0,0,0,1,0,0,0
+sushi,0,0,1,1,0,0,0,0
+sushi roll,0,0,1,1,1,0,0,0
+sv650,0,1,0,1,1,0,0,1
+swamp,0,0,0,1,0,0,0,0
+swan,0,0,0,1,0,0,0,0
+sweater,1,0,1,1,1,0,0,0
+swimming,0,0,0,1,1,0,0,0
+switch,0,1,1,1,1,0,0,0
+sword,1,1,1,0,1,0,0,0
+sydney opera house,0,0,1,0,1,0,0,0
+syenite,0,0,0,0,1,0,0,0
+t-mobile,0,0,1,1,1,0,0,0
+table,1,0,1,1,1,0,0,0
+table tennis,0,0,1,1,1,0,0,0
+tablet,1,0,1,1,1,0,0,0
+taco,1,0,0,1,1,0,0,0
+tacos,0,0,1,1,1,0,0,0
+taiga,0,0,0,0,0,0,0,0
+tailplane,0,1,1,1,1,0,0,0
+taj mahal,0,0,1,0,1,0,0,0
+talc,0,0,0,1,1,0,0,0
+tale,1,0,0,0,1,1,0,0
+tamarind,0,0,0,1,1,0,0,0
+tangerine,0,0,0,1,0,0,0,0
+tank,1,1,1,0,1,0,0,1
+tanzanite,0,0,0,1,1,0,0,0
+tap,1,1,0,1,1,0,0,0
+tape measure,1,0,1,0,1,0,0,0
+tarmac,0,0,0,0,1,0,0,0
+taxi,0,1,1,1,1,0,0,1
+taxiway,0,1,1,0,1,0,0,1
+teacher,0,0,0,0,1,0,0,0
+technology,0,0,1,1,1,0,0,0
+tectonite,0,0,0,0,1,0,0,0
+teddy bear,1,0,1,1,1,1,0,0
+telescope,1,1,1,0,1,0,0,0
+television,0,0,1,1,0,0,0,0
+temperature,0,0,0,0,0,0,0,0
+temple,0,0,1,1,1,0,0,0
+tennessee,0,0,0,1,1,0,0,0
+tennis,0,0,0,0,0,0,0,0
+tennis ball,0,0,1,1,1,0,0,0
+tent,0,0,1,1,0,0,0,0
+tequila,0,0,1,0,0,0,0,0
+terminal,0,0,0,1,1,0,0,0
+tesla,0,1,1,1,1,0,0,0
+texas,0,0,0,0,0,0,0,0
+texas instruments,0,0,1,0,1,0,0,0
+texas spiny lizard,0,0,0,0,0,0,1,0
+the hanging gardens of babylon,1,0,1,0,0,0,0,0
+theme song,0,0,1,1,1,0,0,0
+thistle,0,0,0,0,0,0,0,0
+thoracic rotations,0,0,0,1,1,0,0,0
+thorny devil,0,0,0,0,1,0,0,0
+thread,0,0,1,1,1,0,0,0
+thruster,0,1,1,1,1,0,0,0
+thunder,0,0,0,0,0,0,0,0
+thundercloud,1,0,0,0,0,0,0,0
+thunderstorm,0,0,0,0,0,0,0,0
+tiger,0,0,0,0,0,1,0,0
+tim duncan,0,0,0,0,1,1,0,0
+time machine,0,1,1,0,1,0,0,0
+tire,1,0,1,1,0,0,0,1
+titanic,1,1,1,0,0,0,0,0
+toad,0,0,0,0,0,0,1,0
+toaster,0,1,1,0,1,0,0,0
+tokay gecko,0,0,0,1,1,0,1,0
+tokyo,0,0,0,0,1,0,0,0
+tomato,0,0,0,1,0,0,0,0
+tool,1,1,1,1,1,0,0,1
+toolbox,0,1,1,0,1,0,0,0
+toothbrush,0,0,1,1,0,0,0,0
+topaz,0,0,0,0,1,0,0,0
+tornado,0,0,0,0,0,0,0,0
+tortoise,0,0,0,0,1,0,1,0
+toucan,0,0,0,0,0,0,1,0
+tourmaline,0,0,0,0,1,0,0,0
+towel,0,0,1,1,0,0,0,0
+tower,1,1,1,0,1,0,0,0
+toy,1,0,1,1,1,0,0,0
+toy car,1,1,1,1,1,0,0,1
+track and field,0,0,0,0,1,0,0,0
+tractor,1,1,1,0,1,0,0,1
+trail,1,0,1,1,1,0,0,0
+trail marker,0,0,1,0,1,0,0,0
+trailer,1,0,0,0,1,0,0,1
+trailhead,0,0,0,0,1,0,0,0
+train,0,1,1,0,0,0,0,1
+train station,0,1,1,0,1,0,0,1
+tram,0,1,1,1,1,0,0,1
+tramcar,0,1,1,0,1,0,0,1
+transponder,0,1,1,1,1,0,0,0
+trash can,1,0,1,0,0,0,0,0
+travertine,0,0,0,0,1,0,0,0
+treadmill sprints,0,0,1,0,0,0,0,0
+treasure chest,1,1,1,0,1,0,0,0
+tree,1,0,0,1,1,0,0,0
+tree monitor,0,0,0,1,0,0,0,0
+trekking pole,0,1,1,1,1,0,0,0
+triathlon,0,0,0,0,1,0,0,0
+trip,1,0,1,0,1,0,0,1
+trolley,1,1,1,0,1,0,0,1
+trolleybus,0,1,1,0,1,0,0,1
+tropical-air,0,0,0,0,0,0,0,0
+truck,1,1,1,0,1,0,0,1
+truth,0,0,0,0,1,0,0,0
+trx plank to pike,0,0,0,0,0,0,0,0
+tucson,0,0,0,0,1,0,0,1
+tuff,0,0,0,0,1,0,0,0
+tulip,0,0,0,0,0,0,0,0
+tulsa,0,0,0,0,1,0,0,0
+tuna,0,0,0,0,1,0,0,0
+tuono,0,0,0,1,0,0,0,0
+turkey,0,0,0,1,1,0,1,0
+turkish get-ups,0,0,1,1,1,0,0,0
+turquoise,0,0,1,0,1,0,0,0
+turtle,0,0,0,0,0,0,0,0
+twilio,0,0,1,1,1,0,0,0
+typhoon,0,0,0,0,0,0,0,0
+uber technologies,0,0,1,0,1,0,1,1
+ugli fruit,0,0,0,0,1,0,0,0
+umbrella,0,0,1,1,1,0,0,0
+universe,0,0,0,0,0,0,0,0
+university,0,0,0,0,1,0,0,0
+urchin,0,0,0,1,1,0,0,0
+us virgin islands,0,0,0,0,1,0,0,0
+user,0,0,0,0,1,1,0,0
+utah,0,0,0,0,1,0,0,0
+uv-index,0,0,0,0,0,0,0,0
+vacuum,0,0,1,1,0,0,0,0
+vacuum cleaner,0,0,1,1,0,0,0,1
+valley,0,0,0,0,0,0,0,0
+valve,0,1,1,1,1,0,0,0
+van,1,1,0,0,0,0,0,1
+van gogh,0,0,1,0,1,0,0,0
+vaporeon,0,0,0,1,0,0,0,0
+vase,1,0,1,0,1,0,0,0
+vegetable soup,0,0,1,1,0,0,0,0
+veiled chameleon,0,0,0,1,1,0,1,0
+venice,0,0,0,0,0,0,0,0
+venusaur,0,0,0,1,1,0,0,0
+vermont,0,0,0,0,1,0,0,0
+version,0,0,1,1,1,0,0,0
+viacomcbs,0,0,1,0,1,0,0,0
+village,0,0,0,1,1,0,0,0
+villain,0,0,1,0,1,0,0,0
+violin,0,0,1,1,1,0,0,0
+virga,0,0,0,1,0,0,0,0
+virginia,0,0,0,1,0,1,0,0
+virginia beach,0,0,0,1,1,0,0,0
+visor,0,0,1,1,1,0,0,0
+vitamin,0,0,0,0,0,0,0,0
+vizsla,0,0,0,1,1,1,1,0
+volcano,0,0,0,0,1,0,0,0
+volleyball,0,0,0,1,1,0,0,0
+volunteer,0,0,0,1,1,0,0,0
+volunteering,0,0,0,0,1,0,0,0
+vr headset,0,0,1,1,1,0,0,0
+vstrom1050,0,1,1,1,1,0,0,1
+vstrom650,0,1,1,1,1,0,0,1
+vulture,0,0,0,0,0,0,1,0
+wagon,1,0,1,1,1,0,0,1
+wall,0,0,1,1,1,0,0,0
+wall sit,0,0,1,0,1,0,0,0
+wall sits,0,0,1,0,1,0,0,0
+wallet,0,0,1,1,1,0,0,0
+walrus,1,0,0,1,1,0,0,0
+walt frazier,0,0,0,0,1,0,0,0
+wardrobe,0,0,1,1,1,0,0,0
+warthog,1,0,0,0,0,1,1,0
+wartortle,0,0,0,1,1,0,0,0
+washing machine,1,1,1,1,1,0,0,0
+washington,0,0,0,0,1,0,0,0
+washington dc,0,0,1,0,1,0,0,0
+watch,1,0,1,0,1,0,0,0
+water,0,0,0,0,0,0,0,0
+water bottle,1,0,1,0,0,0,0,0
+water dragon,0,0,0,1,0,0,0,0
+waterfall,0,0,1,0,0,0,0,0
+watermelon,1,0,0,1,1,0,0,0
+watermelon slice,1,0,1,1,1,0,0,0
+way,1,0,0,1,1,1,1,1
+wealth,1,0,0,0,0,0,0,0
+weather,0,0,0,0,0,0,0,0
+weather-map,0,0,1,1,1,0,0,0
+weatherize,0,0,1,1,1,1,1,1
+weedle,0,0,0,0,0,1,1,1
+weighted vest push-ups,0,0,1,0,0,0,0,0
+weighted vest squats,0,0,1,0,1,0,0,0
+weimaraner,1,0,0,1,1,1,1,0
+wes unseld,0,0,0,0,1,1,0,1
+west virginia,0,0,0,1,1,1,0,0
+western fence lizard,0,0,0,0,1,0,1,0
+wet-grind,0,0,1,1,1,0,0,0
+whale,1,0,0,1,0,0,0,0
+wheat,1,0,0,1,0,0,0,0
+wheel,1,1,1,0,1,0,0,1
+whippet,0,0,0,1,1,1,1,0
+whiteboard,0,0,1,0,0,0,0,0
+willis reed,0,0,0,1,1,0,0,0
+wilt chamberlain,0,0,0,0,1,0,0,0
+wind,0,0,0,1,0,0,0,0
+window,1,0,1,1,0,0,0,0
+windstorm,0,0,0,0,0,0,0,0
+wing,1,0,1,1,1,0,0,0
+winterproof,0,0,0,1,1,1,0,1
+wisconsin,0,0,0,1,1,1,0,0
+wolf,0,0,0,1,0,1,0,0
+wombat,0,0,0,0,0,1,0,0
+woodworking,0,0,1,1,1,0,0,0
+workday,0,0,0,1,1,0,0,0
+world's greatest stretch,1,0,0,1,1,0,0,0
+wrench,1,1,1,0,1,0,0,0
+wrestling,0,0,0,1,1,0,0,0
+writer,0,0,0,0,1,0,0,0
+writing,0,0,0,0,1,1,0,1
+wyoming,0,0,0,0,0,0,0,0
+xerox,0,0,1,0,0,0,0,0
+xylophone,0,0,1,1,0,0,0,0
+yacht,1,0,0,0,1,0,0,0
+yak,1,0,0,1,1,1,0,0
+yard,1,0,0,1,0,0,0,0
+yoga,0,0,0,1,1,0,0,0
+yogurt,0,0,1,1,0,0,0,0
+zapdos,0,0,0,0,0,0,0,0
+zebra,0,0,0,0,0,1,1,0
+zercher squat,0,0,0,0,1,0,1,0
+zircon,0,0,0,0,1,0,0,0
+zoo,0,0,1,0,1,0,0,0
+zx10r,0,0,0,0,0,0,0,1
+zx6r,0,0,0,0,0,0,0,0
